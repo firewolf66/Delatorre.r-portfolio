@@ -3,13 +3,21 @@ body {
     background-image: url('http://p1.pichost.me/i/12/1348720.jpg')
 }
 body {
-    color: darkgoldenrod;
+    color: white;
 }
 
 a {
-    color: darkgoldenrod;
+    color: white;
 }
 
 body{
     font-family: cursive;
+}
+div{
+    margin-left: 450px;
+    margin-right:450px;
+    height:55px;
+    font-size: 45px;
+    text-align: center;
+    
 }
