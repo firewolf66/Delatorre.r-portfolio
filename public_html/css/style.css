@@ -1,6 +1,15 @@
 body {
     background-color: cadetblue;
+    background-image: url('http://p1.pichost.me/i/12/1348720.jpg')
 }
 body {
-    color: darkseagreen
+    color: darkgoldenrod;
+}
+
+a {
+    color: darkgoldenrod;
+}
+
+body{
+    font-family: cursive;
 }
